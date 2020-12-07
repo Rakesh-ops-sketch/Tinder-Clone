@@ -14,6 +14,7 @@ function SwipeButtons() {
                <ReplayIcon fontSize="large" />
                </IconButton> 
                <IconButton className="swipeButtons__left">
+                   /*just a comment*/
                    <CloseIcon fontSize="large" />
                </IconButton>
                <IconButton className="swipeButtons__star">
